@@ -1,0 +1,7 @@
+graphql:
+  spqr:
+    gui:
+      enabled: true
+
+server:
+  port: 1337
